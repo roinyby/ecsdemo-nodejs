@@ -25,5 +25,5 @@ spec:
         imagePullPolicy: Always
         name: ecsdemo-nodejs
         ports:
-        - containerPort: 30000
+        - containerPort: 3000
           protocol: TCP
